@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# Version 1 25/09/2010
+images/calais.jpg
+images/icon.png
+css/style.css
+index.html
+
+
+NETWORK:
+/index.html
+
+FALLBACK:
+/online  offline.html
